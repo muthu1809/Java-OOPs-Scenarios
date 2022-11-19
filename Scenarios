@@ -10,6 +10,7 @@ Expected Understanding: Access Modifiers, Single Inheritance, getter methods, Co
 – Create getter method for salary.
 – Have instance method training() with void as return data type
 – Add a print statement inside training() method
+- Add main method [public static void main(String[] args)] 
 – Have instance named as ‘trainerKumar’ and pass “CSE”, “payilagam” as arguments to it.
 – Handle above line with matching Constructor.
 
